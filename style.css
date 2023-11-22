@@ -1,0 +1,33 @@
+body{
+    background-color:burlywood;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+}
+
+input{
+    border-radius: 10px;
+    font-family:'Times New Roman', Times, serif;
+    font-size: large;
+}
+
+button{
+    border-radius: 20px;
+    font-size:large;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 10px;
+}
+
+.pd{
+ background-color: peru;
+ padding: 8px;
+}
+
+select{
+    border-radius: 10px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+}
+
+p{
+    font-size: larger;
+}
